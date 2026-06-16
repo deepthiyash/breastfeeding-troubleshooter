@@ -1,0 +1,92 @@
+                  {
+  "Painful latch": {
+    "meaning": "Painful latch often happens when baby is shallow on the breast, nipple is compressed, or positioning needs adjustment.",
+    "steps": [
+      "Bring baby to breast, not breast to baby.",
+      "Aim nipple toward baby\u2019s nose, wait for a wide mouth, then bring baby in close.",
+      "Check that baby\u2019s chin touches the breast and lips are flanged outward.",
+      "Break suction gently with a clean finger before relatching.",
+      "If nipples are cracked or bleeding, get latch assessed rather than pushing through pain."
+    ],
+    "when_to_get_help": [
+      "Pain continues after the first 30\u201360 seconds of feeding.",
+      "Nipples look pinched, white, cracked, or bleeding after feeds.",
+      "Baby is not gaining weight or feeding seems ineffective."
+    ]
+  },
+  "Low milk supply concern": {
+    "meaning": "Many mothers worry about supply, but true low supply is best judged by diaper output, weight gain, and feeding behavior, not only pumping amount.",
+    "steps": [
+      "Feed or pump frequently, usually 8\u201312 times in 24 hours for newborns.",
+      "Use breast compression during feeds to improve milk transfer.",
+      "Offer both breasts and watch for active swallowing.",
+      "Avoid long gaps between feeds in the early weeks unless advised by a clinician.",
+      "Check flange size if pumping output is low."
+    ],
+    "when_to_get_help": [
+      "Baby has low diaper output.",
+      "Baby is losing weight or not gaining as expected.",
+      "Feeds are very long but baby still seems hungry."
+    ]
+  },
+  "Engorgement": {
+    "meaning": "Engorgement is breast fullness and swelling. It can make latch harder and may reduce milk flow if not managed.",
+    "steps": [
+      "Use gentle breast massage and hand expression before latch.",
+      "Apply warmth briefly before feeding if milk is not flowing.",
+      "Use cold compresses after feeding to reduce swelling.",
+      "Feed frequently and avoid skipping feeds.",
+      "Do not over-pump aggressively, as it may worsen oversupply."
+    ],
+    "when_to_get_help": [
+      "You develop fever or flu-like symptoms.",
+      "A red painful area appears on the breast.",
+      "Baby cannot latch because the breast is too firm."
+    ]
+  },
+  "Cracked nipples": {
+    "meaning": "Cracked nipples are usually a sign of latch friction, shallow attachment, pump trauma, or moisture irritation.",
+    "steps": [
+      "Focus on deeper latch rather than only applying creams.",
+      "Check pump suction level and flange fit.",
+      "Air-dry nipples after feeds when possible.",
+      "Use expressed breast milk or a safe nipple ointment if recommended.",
+      "Avoid repeatedly removing baby without breaking suction first."
+    ],
+    "when_to_get_help": [
+      "Cracks are worsening or bleeding.",
+      "Pain is severe or continues through the whole feed.",
+      "There are signs of infection such as redness, swelling, pus, or fever."
+    ]
+  },
+  "Baby sleepy at breast": {
+    "meaning": "Sleepiness can be normal sometimes, but poor active feeding can affect intake, especially in newborns.",
+    "steps": [
+      "Undress baby to diaper for feeds if safe and warm enough.",
+      "Use breast compression when sucking slows.",
+      "Switch sides when baby becomes sleepy.",
+      "Tickle feet or rub baby\u2019s back to encourage active sucking.",
+      "Track wet and dirty diapers closely."
+    ],
+    "when_to_get_help": [
+      "Baby is difficult to wake for feeds.",
+      "Baby has fewer wet diapers than expected.",
+      "Baby has jaundice, poor weight gain, or weak sucking."
+    ]
+  },
+  "Pumping output concern": {
+    "meaning": "Pumping output does not always equal milk supply. Output depends on pump quality, flange size, timing, stress, and letdown response.",
+    "steps": [
+      "Check flange size and nipple movement in the tunnel.",
+      "Use hands-on pumping with gentle compression.",
+      "Pump at a consistent time when possible.",
+      "Replace pump parts like valves and membranes if worn.",
+      "Do not compare output directly with another mother\u2019s output."
+    ],
+    "when_to_get_help": [
+      "Baby\u2019s diaper output or weight gain is low.",
+      "Output suddenly drops with pain, fever, or illness.",
+      "You are exclusively pumping and cannot meet baby\u2019s intake needs."
+    ]
+  }
+}
