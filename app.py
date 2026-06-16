@@ -66,6 +66,30 @@ if st.button("Get guidance"):
 
     st.subheader("When to get help")
     red_flags = []
+    st.subheader("Quick questions")
+    feeding_frequency = st.selectbox(
+    "How many times is baby feeding in 24 hours?",
+    ["Less than 6", "6–8", "8–12", "More than 12", "Not sure"]
+)
+
+baby_weight = st.radio(
+    "Any concern about baby weight gain?",
+    ["No", "Yes", "Not sure"]
+)
+
+nipple_shape = st.selectbox(
+    "How does the nipple look after feeding?",
+    ["Normal/round", "Pinched/lipstick shape", "Cracked/bleeding", "Not sure"]
+)
+if st.button("Get guidance"):
+    if feeding_frequency == "Less than 6":
+    red_flags.append("Very low feeding frequency may affect milk intake, especially in newborns.")
+
+if baby_weight == "Yes":
+    red_flags.append("Weight gain concerns should be reviewed by a pediatrician or lactation consultant.")
+
+if nipple_shape in ["Pinched/lipstick shape", "Cracked/bleeding"]:
+    red_flags.append("Nipple damage often means latch needs to be assessed.")
 
     if fever == "Yes":
         red_flags.append("Fever, red painful breast area, or flu-like symptoms can need medical review.")
@@ -90,3 +114,6 @@ if st.button("Get guidance"):
 
 st.divider()
 st.caption("Built as an MVP for education and lead generation. Add your contact link here later.")
+
+st.markdown("### Get your free breastfeeding guide")
+st.markdown("[Submit your email here](https://docs.google.com/forms/d/e/1FAIpQLSeyxiQqgo6i3jGkx1OkCfOrZNA1Qdy6jykaac11TPRabBlTHw/viewform?usp=header)")
